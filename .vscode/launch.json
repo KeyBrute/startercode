@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/micke/Downloads/PQPD/startercode",
-      "program": "c:/Users/micke/Downloads/PQPD/startercode/build/Debug/outDebug",
+      "cwd": "c:/Users/micke/Downloads/251proj5",
+      "program": "c:/Users/micke/Downloads/251proj5/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
